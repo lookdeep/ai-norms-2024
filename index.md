@@ -2,21 +2,23 @@
 layout: posts
 title:  "Continuous Patient Monitoring with AI: Real-Time Analysis of Video in Hospital Care Settings"
 ---
-> **Authors**: Paolo Gutierrez Gabriel (corresponding), Peter Rehani, Tyler Troy, Tiffany Wyatt, Michael Choma and Narinder Singh
->
+**Authors**: Paolo Gutierrez Gabriel (corresponding), Peter Rehani, Tyler Troy, Tiffany Wyatt, Michael Choma and Narinder Singh
+
 > _The manuscript is submitted for review in 'Frontiers in Imaging - Imaging Applications'._
 
+> **_NOTE_** [2024-12-17]: this repository and project page are under construction. 
+thank you for your patience. 
+
+
 ## Welcome! 
-You are likely here because you read the manuscript, "Continuous Patient Monitoring with AI: Real-Time Analysis of Video in Hospital Care Settings", and are looking for the public data and associated code that was mentioned. 
 
 ![Figure 1 of pre-print](assets/images/overview.png "LookDeep Health System")
 _Figure 1 of pre-print article_
 
+You are likely here because you read the titled manuscript and are looking for the public data and associated code that was mentioned. 
+
 Thank you for your interest in analyzing these anonymized computer vision predictions, aggregated at the patient-day-hour level. 
 We invite you to explore the trends reported in the manuscript (and more), and provide the materials below as support.
-
-> **_NOTE_** [2024-12-17]: this repository and project page are under construction. 
-thank you for your patience. 
 
 ### Dataset
 
@@ -59,13 +61,14 @@ These trends provide hour-over-hour insight into various patient behvaiors and r
 ```
 
 *Details*:
-- direct link to data: [lookdeep/ai-norms-2024/data/data_by_patient_hour_scrubbed.csv](https://github.com/lookdeep/ai-norms-2024/blob/main/data/data_by_patient_hour_scrubbed.csv)
 - computer vision predictions come from Models v4 and v5 -> see manuscript for evaluation
 
 ## Resources
+* [direct link to data](https://github.com/lookdeep/ai-norms-2024/blob/main/data/data_by_patient_hour_scrubbed.csv) - CSV file (3.88 MB)
 * [arXiv pre-print](https://arxiv.org/abs/2412.13152) 
 * [code repository](https://github.com/lookdeep/ai-norms-2024) - use `main` branch
 * [LookDeep Health website](https://lookdeep.health/technology/)
+* demo
 
 ## Citation
 If you would like to reference this work, please use:
