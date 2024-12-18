@@ -59,7 +59,7 @@ These trends provide hour-over-hour insight into various patient behvaiors and r
 ```
 
 *Details*:
-- direct link to data: lookdeep/ai-norms-2024/data_by_patient_hour_scrubbed.csv
+- direct link to data: [lookdeep/ai-norms-2024/data/data_by_patient_hour_scrubbed.csv](https://github.com/lookdeep/ai-norms-2024/blob/main/data/data_by_patient_hour_scrubbed.csv)
 - computer vision predictions come from Models v4 and v5 -> see manuscript for evaluation
 
 ## Resources
@@ -67,8 +67,20 @@ These trends provide hour-over-hour insight into various patient behvaiors and r
 * [code repository](https://github.com/lookdeep/ai-norms-2024) - use `main` branch
 * [LookDeep Health website](https://lookdeep.health/technology/)
 
+## Citation
+If you would like to reference this work, please use:
+```
+@misc{gabriel2024continuouspatientmonitoringai,
+      title={Continuous Patient Monitoring with AI: Real-Time Analysis of Video in Hospital Care Settings}, 
+      author={Paolo Gabriel and Peter Rehani and Tyler Troy and Tiffany Wyatt and Michael Choma and Narinder Singh},
+      year={2024},
+      eprint={2412.13152},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2412.13152}, 
+}
+```
 ---
-\
 **Change Log**:
  * 2024-12-17 : initialize project page and link to pre-print
  * 2024-12-18 : update project page with dataset
