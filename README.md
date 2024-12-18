@@ -13,6 +13,7 @@ This is the corresponding code and data repository for the titled manuscript.
 * [arXiv pre-print](https://arxiv.org/abs/2412.13152) 
 * [code repository](https://github.com/lookdeep/ai-norms-2024) - use `main` branch
 * [LookDeep Health website](https://lookdeep.health/technology/)
+* [direct link to data](https://raw.githubusercontent.com/lookdeep/ai-norms-2024/refs/heads/main/data/data_by_patient_hour_scrubbed.csv) - `data/data_by_patient_hour_scrubbed.csv`
 
 ## Citation
 If you would like to reference this work, please use:
