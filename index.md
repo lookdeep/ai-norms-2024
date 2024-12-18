@@ -21,6 +21,8 @@ Thank you for your interest in analyzing these anonymized computer vision predic
 We invite you to explore the trends reported in the manuscript (and more), and provide the materials below as support.
 
 ### Dataset
+> [Raw data](https://raw.githubusercontent.com/lookdeep/ai-norms-2024/refs/heads/main/data/data_by_patient_hour_scrubbed.csv) - CSV file (3.88 MB)
+
 
 This project page is about a new, fully anonymized dataset (unnamed).
 This data consists of computer vision predictions recorded from hundreds of patients over a 6-month period, aggregated at the patient-day-hour level. 
@@ -64,7 +66,7 @@ These trends provide hour-over-hour insight into various patient behvaiors and r
 - computer vision predictions come from Models v4 and v5 -> see manuscript for evaluation
 
 ## Resources
-* [direct link to data](https://github.com/lookdeep/ai-norms-2024/blob/main/data/data_by_patient_hour_scrubbed.csv) - CSV file (3.88 MB)
+* [direct link to data](https://raw.githubusercontent.com/lookdeep/ai-norms-2024/refs/heads/main/data/data_by_patient_hour_scrubbed.csv) - CSV file (3.88 MB)
 * [arXiv pre-print](https://arxiv.org/abs/2412.13152) 
 * [code repository](https://github.com/lookdeep/ai-norms-2024) - use `main` branch
 * [LookDeep Health website](https://lookdeep.health/technology/)
