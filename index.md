@@ -1,6 +1,19 @@
 ---
-layout: posts
+layout: single
 title:  "Continuous Patient Monitoring with AI: Real-Time Analysis of Video in Hospital Care Settings"
+toc: true
+toc_label: "Navigation"
+toc_icon: "bars"
+toc_sticky: false
+header:
+    overlay_image: assets/images/overview.png
+    overlay_filter: 0.85
+    caption: "LookDeep Health System Overview. From Figure 1 of pre-print article."
+    actions:
+        - label: "Download Dataset - CSV file (3.88 MB)"
+          url: "https://raw.githubusercontent.com/lookdeep/ai-norms-2024/refs/heads/main/data/data_by_patient_hour_scrubbed.csv"
+        - label: "Get Code"
+          url: "https://github.com/lookdeep/ai-norms-2024"
 ---
 **Authors**: Paolo Gutierrez Gabriel (corresponding), Peter Rehani, Tyler Troy, Tiffany Wyatt, Michael Choma and Narinder Singh
 
@@ -10,8 +23,7 @@ title:  "Continuous Patient Monitoring with AI: Real-Time Analysis of Video in H
 thank you for your patience. 
 
 
-## Welcome! 
-
+# Welcome! 
 ![Figure 1 of pre-print](assets/images/overview.png "LookDeep Health System")
 _Figure 1 of pre-print article_
 
@@ -20,10 +32,7 @@ You are likely here because you read the titled manuscript and are looking for t
 Thank you for your interest in analyzing these anonymized computer vision predictions, aggregated at the patient-day-hour level. 
 We invite you to explore the trends reported in the manuscript (and more), and provide the materials below as support.
 
-### Dataset
-> [Raw data](https://raw.githubusercontent.com/lookdeep/ai-norms-2024/refs/heads/main/data/data_by_patient_hour_scrubbed.csv) - CSV file (3.88 MB)
-
-
+# Dataset
 This project page is about a new, fully anonymized dataset (unnamed).
 This data consists of computer vision predictions recorded from hundreds of patients over a 6-month period, aggregated at the patient-day-hour level. 
 
@@ -65,14 +74,14 @@ These trends provide hour-over-hour insight into various patient behvaiors and r
 *Details*:
 - computer vision predictions come from Models v4 and v5 -> see manuscript for evaluation
 
-## Resources
+# Resources
 * [direct link to data](https://raw.githubusercontent.com/lookdeep/ai-norms-2024/refs/heads/main/data/data_by_patient_hour_scrubbed.csv) - CSV file (3.88 MB)
 * [arXiv pre-print](https://arxiv.org/abs/2412.13152) 
 * [code repository](https://github.com/lookdeep/ai-norms-2024) - use `main` branch
 * [LookDeep Health website](https://lookdeep.health/technology/)
 * demo
 
-## Citation
+# Citation
 If you would like to reference this work, please use:
 ```
 @misc{gabriel2024continuouspatientmonitoringai,
@@ -85,7 +94,6 @@ If you would like to reference this work, please use:
       url={https://arxiv.org/abs/2412.13152}, 
 }
 ```
----
-**Change Log**:
+# Change Log
  * 2024-12-17 : initialize project page and link to pre-print
  * 2024-12-18 : update project page with dataset
