@@ -10,11 +10,11 @@ header:
     overlay_filter: 0.85
     caption: "LookDeep Health System Overview. From Figure 1 of pre-print article."
     actions:
-        - label: "Download Dataset - CSV file (3.88 MB)"
+        - label: "Download Dataset - CSV file (3.88 MB) <i class='fa fa-external-link'></i>"
           url: "https://raw.githubusercontent.com/lookdeep/ai-norms-2024/refs/heads/main/data/data_by_patient_hour_scrubbed.csv"
-        - label: "Explore Dataset"
+        - label: "Explore Dataset <i class='fa fa-external-link'></i>"
           url: "https://lookdeep.vercel.app/"
-        - label: "Get Code"
+        - label: "Get Code <i class='fa fa-external-link'></i>"
           url: "https://github.com/lookdeep/ai-norms-2024"
 
 ---
@@ -78,7 +78,8 @@ These trends provide hour-over-hour insight into various patient behvaiors and r
 *Details*:
 - computer vision predictions come from Models v4 and v5 -> see manuscript for evaluation
 
-# Resources
+# Resources <i class="fa fa-external-link-square"></i>
+_Links open in a new window._
 * [direct link to data](https://raw.githubusercontent.com/lookdeep/ai-norms-2024/refs/heads/main/data/data_by_patient_hour_scrubbed.csv) - CSV file (3.88 MB)
 * [interactive demo](https://lookdeep.vercel.app/) - made with Vercel App
 * [arXiv pre-print](https://arxiv.org/abs/2412.13152) 
