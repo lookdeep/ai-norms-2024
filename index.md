@@ -101,6 +101,8 @@ If you would like to reference this work, please use:
 }
 ```
 # Change Log
+ * 2024-12-31
+    - update layout for accessibility
  * 2024-12-30 
     - update dataset description to include `division_name`
     - add "interactive demo" link to resources and banner
