@@ -12,8 +12,11 @@ header:
     actions:
         - label: "Download Dataset - CSV file (3.88 MB)"
           url: "https://raw.githubusercontent.com/lookdeep/ai-norms-2024/refs/heads/main/data/data_by_patient_hour_scrubbed.csv"
+        - label: "Explore Dataset"
+          url: "https://lookdeep.vercel.app/"
         - label: "Get Code"
           url: "https://github.com/lookdeep/ai-norms-2024"
+
 ---
 **Authors**: Paolo Gutierrez Gabriel (corresponding), Peter Rehani, Tyler Troy, Tiffany Wyatt, Michael Choma and Narinder Singh
 
@@ -47,6 +50,7 @@ These trends provide hour-over-hour insight into various patient behvaiors and r
 - day_loc
 - hour_loc
 - monitor_id
+- division_name
 - group_ADC
 - gender
 - group_age
@@ -76,10 +80,11 @@ These trends provide hour-over-hour insight into various patient behvaiors and r
 
 # Resources
 * [direct link to data](https://raw.githubusercontent.com/lookdeep/ai-norms-2024/refs/heads/main/data/data_by_patient_hour_scrubbed.csv) - CSV file (3.88 MB)
+* [interactive demo](https://lookdeep.vercel.app/) - made with Vercel App
 * [arXiv pre-print](https://arxiv.org/abs/2412.13152) 
 * [code repository](https://github.com/lookdeep/ai-norms-2024) - use `main` branch
 * [LookDeep Health website](https://lookdeep.health/technology/)
-* demo
+* code
 
 # Citation
 If you would like to reference this work, please use:
@@ -95,5 +100,10 @@ If you would like to reference this work, please use:
 }
 ```
 # Change Log
- * 2024-12-17 : initialize project page and link to pre-print
- * 2024-12-18 : update project page with dataset
+ * 2024-12-30 
+    - update dataset description to include `division_name`
+    - add "interactive demo" link to resources and banner
+ * 2024-12-17 
+    - initialize project page and link to pre-print
+ * 2024-12-18 
+    - update project page with dataset
