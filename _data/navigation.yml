@@ -1,12 +1,9 @@
 # main links
 main:
-  # - title: "Quick-Start Guide"
-  #   url: https://lookdeep.github.io/ai-norms-2024/docs/tutorial/
-  # - title: "About"
-  #   url: https://lookdeep.github.io/ai-norms-2024/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Demo <i class='fa fa-external-link'></i>"
+    url: "https://lookdeep.vercel.app/"
+  - title: "Code <i class='fa fa-external-link'></i>"
+    url: "https://github.com/lookdeep/ai-norms-2024"
+  - title: "Download (3.88 MB) <i class='fa fa-external-link'></i>"
+    url: "https://raw.githubusercontent.com/lookdeep/ai-norms-2024/refs/heads/main/data/data_by_patient_hour_scrubbed.csv"
+  

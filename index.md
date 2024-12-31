@@ -4,18 +4,18 @@ title:  "Continuous Patient Monitoring with AI: Real-Time Analysis of Video in H
 toc: true
 toc_label: "Navigation"
 toc_icon: "bars"
-toc_sticky: false
+toc_sticky: true
 header:
     overlay_image: assets/images/overview.png
     overlay_filter: 0.85
     caption: "LookDeep Health System Overview. From Figure 1 of pre-print article."
     actions:
-        - label: "Download Dataset - CSV file (3.88 MB) <i class='fa fa-external-link'></i>"
-          url: "https://raw.githubusercontent.com/lookdeep/ai-norms-2024/refs/heads/main/data/data_by_patient_hour_scrubbed.csv"
         - label: "Explore Dataset <i class='fa fa-external-link'></i>"
           url: "https://lookdeep.vercel.app/"
         - label: "Get Code <i class='fa fa-external-link'></i>"
           url: "https://github.com/lookdeep/ai-norms-2024"
+        - label: "Download Dataset - CSV file (3.88 MB) <i class='fa fa-external-link'></i>"
+          url: "https://raw.githubusercontent.com/lookdeep/ai-norms-2024/refs/heads/main/data/data_by_patient_hour_scrubbed.csv"
 
 ---
 **Authors**: Paolo Gutierrez Gabriel (corresponding), Peter Rehani, Tyler Troy, Tiffany Wyatt, Michael Choma and Narinder Singh
@@ -78,7 +78,7 @@ These trends provide hour-over-hour insight into various patient behvaiors and r
 *Details*:
 - computer vision predictions come from Models v4 and v5 -> see manuscript for evaluation
 
-# Resources <i class="fa fa-external-link-square"></i>
+# Resources
 _Links open in a new window._
 * [direct link to data](https://raw.githubusercontent.com/lookdeep/ai-norms-2024/refs/heads/main/data/data_by_patient_hour_scrubbed.csv) - CSV file (3.88 MB)
 * [interactive demo](https://lookdeep.vercel.app/) - made with Vercel App
