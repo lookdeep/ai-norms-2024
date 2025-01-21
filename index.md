@@ -103,6 +103,9 @@ If you would like to reference this work, please use:
 }
 ```
 # Change Log
+ * 2025-01-17
+    - update project image
+    - manuscript is under review! 
  * 2025-01-06
     - link to pre-print in header(s)
     - alphabetize "Resources"
