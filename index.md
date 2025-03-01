@@ -8,29 +8,25 @@ toc_sticky: true
 header:
     overlay_image: assets/images/overview.png
     overlay_filter: 0.85
-    caption: "LookDeep Health System Overview. From Figure 1 of pre-print article."
+    caption: "LookDeep Health System Overview. From Figure 1 of article."
     actions:
-        - label: "Explore Dataset <i class='fa fa-external-link'></i>"
+        - label: "Explore Plots <i class='fa fa-external-link'></i>"
           url: "https://lookdeep.vercel.app/"
         - label: "Read Paper <i class='fa fa-external-link'></i>"
-          url: "https://arxiv.org/abs/2412.13152"
-        - label: "Get Code <i class='fa fa-external-link'></i>"
-          url: "https://github.com/lookdeep/ai-norms-2024"
+          url: "https://www.frontiersin.org/journals/imaging/articles/10.3389/fimag.2025.1547166/abstract"
+        - label: "Run Code <i class='fa fa-external-link'></i>"
+          url: "https://colab.research.google.com/drive/1v0Egoyt5pBmTmb9iEV8RZFSzhym5XpU4?usp=sharing"
         - label: "Download Dataset - CSV file (3.88 MB) <i class='fa fa-external-link'></i>"
           url: "https://raw.githubusercontent.com/lookdeep/ai-norms-2024/refs/heads/main/data/data_by_patient_hour_scrubbed.csv"
 
 ---
 **Authors**: Paolo Gutierrez Gabriel (corresponding), Peter Rehani, Tyler Troy, Tiffany Wyatt, Michael Choma and Narinder Singh
 
-> _The manuscript is submitted for review in 'Frontiers in Imaging - Imaging Applications'._
-
-> **_NOTE_** [2024-12-17]: this repository and project page are under construction. 
-thank you for your patience. 
-
+> _The manuscript was accepted by 'Frontiers in Imaging - Imaging Applications' on February 18, 2025._
 
 # Welcome! 
-![Figure 1 of pre-print](assets/images/overview.png "LookDeep Health System")
-_Figure 1 of pre-print article_
+![Figure 1 of manuscript](assets/images/overview.png "LookDeep Health System")
+_Figure 1 of manuscript_
 
 You are likely here because you read the titled manuscript and are looking for the public data and associated code that was mentioned. 
 
@@ -45,7 +41,7 @@ This data consists of computer vision predictions recorded from hundreds of pati
 
 _Example trend plot, rendered in [Vercel App](https://lookdeep.vercel.app/)_
 
-These trends provide hour-over-hour insight into various patient behvaiors and room conditions, including but not limited to:
+These trends provide hour-over-hour insight into various patient behaviors and room conditions, including but not limited to:
 ```
 **Metadata:**
 - model_name
@@ -82,27 +78,34 @@ These trends provide hour-over-hour insight into various patient behvaiors and r
 
 # Resources
 _Links open in a new window._
+* [manuscript](https://www.frontiersin.org/journals/imaging/articles/10.3389/fimag.2025.1547166/abstract)
 * [arXiv pre-print](https://arxiv.org/abs/2412.13152) 
-* code
+* [colab notebook](https://colab.research.google.com/drive/1v0Egoyt5pBmTmb9iEV8RZFSzhym5XpU4?usp=sharing)
 * [code repository](https://github.com/lookdeep/ai-norms-2024) - use `main` branch
 * [direct link to data](https://raw.githubusercontent.com/lookdeep/ai-norms-2024/refs/heads/main/data/data_by_patient_hour_scrubbed.csv) - CSV file (3.88 MB)
 * [interactive demo](https://lookdeep.vercel.app/) - made with Vercel App
-* [LookDeep Health website](https://lookdeep.health/technology/)
+* [company website](https://lookdeep.health/technology/)
 
 # Citation
 If you would like to reference this work, please use:
 ```
-@misc{gabriel2024continuouspatientmonitoringai,
-      title={Continuous Patient Monitoring with AI: Real-Time Analysis of Video in Hospital Care Settings}, 
-      author={Paolo Gabriel and Peter Rehani and Tyler Troy and Tiffany Wyatt and Michael Choma and Narinder Singh},
-      year={2024},
-      eprint={2412.13152},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2412.13152}, 
+@article{gabriel2025continuouspatientmonitoringai,
+   author={Paolo Gabriel, Peter Rehani, Tyler Troy, Tiffany Wyatt, Michael Choma and Narinder Singh},
+   title={Continuous Patient Monitoring with AI: Real-Time Analysis of Video in Hospital Care Settings},
+   journal={Frontiers in Imaging},
+   volume={4},
+   year={2025},
+   url={https://www.frontiersin.org/journals/imaging/articles/10.3389/fimag.2025.1547166},
+   DOI={10.3389/fimag.2025.1547166},
 }
 ```
+
 # Change Log
+ * 2025-02-28
+    - connect Colab notebook
+    - update links and references to manuscript
+ * 2025-02-18
+    - manuscript was accepted!
  * 2025-01-17
     - update project image
     - manuscript is under review! 
