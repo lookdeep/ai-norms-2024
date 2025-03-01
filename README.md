@@ -18,13 +18,13 @@ This is the corresponding code and data repository for the titled manuscript.
 ## Citation
 If you would like to reference this work, please use:
 ```
-@misc{gabriel2024continuouspatientmonitoringai,
-      title={Continuous Patient Monitoring with AI: Real-Time Analysis of Video in Hospital Care Settings}, 
-      author={Paolo Gabriel and Peter Rehani and Tyler Troy and Tiffany Wyatt and Michael Choma and Narinder Singh},
-      year={2024},
-      eprint={2412.13152},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2412.13152}, 
+@article{gabriel2025continuouspatientmonitoringai,
+   author={Paolo Gabriel, Peter Rehani, Tyler Troy, Tiffany Wyatt, Michael Choma and Narinder Singh},
+   title={Continuous Patient Monitoring with AI: Real-Time Analysis of Video in Hospital Care Settings},
+   journal={Frontiers in Imaging},
+   volume={4},
+   year={2025},
+   url={https://www.frontiersin.org/journals/imaging/articles/10.3389/fimag.2025.1547166},
+   DOI={10.3389/fimag.2025.1547166},
 }
 ```
