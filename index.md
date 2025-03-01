@@ -116,7 +116,7 @@ If you would like to reference this work, please use:
  * 2024-12-30 
     - update dataset description to include `division_name`
     - add "interactive demo" link to resources and banner
- * 2024-12-17 
-    - initialize project page and link to pre-print
  * 2024-12-18 
     - update project page with dataset
+ * 2024-12-17 
+    - initialize project page and link to pre-print
