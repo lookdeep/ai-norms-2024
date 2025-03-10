@@ -13,7 +13,7 @@ header:
         - label: "Explore Plots <i class='fa fa-external-link'></i>"
           url: "https://lookdeep.vercel.app/"
         - label: "Read Paper <i class='fa fa-external-link'></i>"
-          url: "https://www.frontiersin.org/journals/imaging/articles/10.3389/fimag.2025.1547166/abstract"
+          url: "https://www.frontiersin.org/journals/imaging/articles/10.3389/fimag.2025.1547166/"
         - label: "Run Code <i class='fa fa-external-link'></i>"
           url: "https://colab.research.google.com/drive/1v0Egoyt5pBmTmb9iEV8RZFSzhym5XpU4?usp=sharing"
         - label: "Download Dataset - CSV file (3.88 MB) <i class='fa fa-external-link'></i>"
@@ -78,7 +78,7 @@ These trends provide hour-over-hour insight into various patient behaviors and r
 
 # Resources
 _Links open in a new window._
-* [accepted manuscript](https://www.frontiersin.org/journals/imaging/articles/10.3389/fimag.2025.1547166/abstract)
+* [accepted manuscript](https://www.frontiersin.org/journals/imaging/articles/10.3389/fimag.2025.1547166)
 * [arXiv pre-print](https://arxiv.org/abs/2412.13152) 
 * [colab notebook](https://colab.research.google.com/drive/1v0Egoyt5pBmTmb9iEV8RZFSzhym5XpU4?usp=sharing)
 * [company website](https://lookdeep.health/technology/)
@@ -90,16 +90,19 @@ If you would like to reference this work, please use:
 ```
 @article{gabriel2025continuouspatientmonitoringai,
    author={Paolo Gabriel, Peter Rehani, Tyler Troy, Tiffany Wyatt, Michael Choma and Narinder Singh},
-   title={Continuous Patient Monitoring with AI: Real-Time Analysis of Video in Hospital Care Settings},
+   title={Continuous patient monitoring with AI: real-time analysis of video in hospital care settings},
    journal={Frontiers in Imaging},
    volume={4},
    year={2025},
    url={https://www.frontiersin.org/journals/imaging/articles/10.3389/fimag.2025.1547166},
    DOI={10.3389/fimag.2025.1547166},
+   ISSN={2813-3315},
 }
 ```
 
 # Change Log
+ * 2025-03-10
+    - officially published!
  * 2025-02-28
     - connect Colab notebook
     - update links and references to manuscript

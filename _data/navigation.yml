@@ -3,7 +3,7 @@ main:
   - title: "Explore <i class='fa fa-external-link'></i>"
     url: "https://lookdeep.vercel.app/"
   - title: "Paper <i class='fa fa-external-link'></i>"
-    url: "https://www.frontiersin.org/journals/imaging/articles/10.3389/fimag.2025.1547166/abstract"
+    url: "https://www.frontiersin.org/journals/imaging/articles/10.3389/fimag.2025.1547166"
   - title: "Code <i class='fa fa-external-link'></i>"
     url: "https://colab.research.google.com/drive/1v0Egoyt5pBmTmb9iEV8RZFSzhym5XpU4?usp=sharing"
   - title: "Download (3.88 MB) <i class='fa fa-external-link'></i>"
