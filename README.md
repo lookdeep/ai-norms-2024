@@ -8,7 +8,7 @@ This is the corresponding code and data repository for the titled manuscript.
 # [Link to Project Page](https://lookdeep.github.io/ai-norms-2024/) 
 
 ## Resources 
-* [accepted manuscript](https://www.frontiersin.org/journals/imaging/articles/10.3389/fimag.2025.1547166/abstract)
+* [accepted manuscript](https://www.frontiersin.org/journals/imaging/articles/10.3389/fimag.2025.1547166)
 * [arXiv pre-print](https://arxiv.org/abs/2412.13152) 
 * [colab notebook](https://colab.research.google.com/drive/1v0Egoyt5pBmTmb9iEV8RZFSzhym5XpU4?usp=sharing)
 * [company website](https://lookdeep.health/technology/)
