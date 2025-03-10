@@ -20,11 +20,12 @@ If you would like to reference this work, please use:
 ```
 @article{gabriel2025continuouspatientmonitoringai,
    author={Paolo Gabriel, Peter Rehani, Tyler Troy, Tiffany Wyatt, Michael Choma and Narinder Singh},
-   title={Continuous Patient Monitoring with AI: Real-Time Analysis of Video in Hospital Care Settings},
+   title={Continuous patient monitoring with AI: real-time analysis of video in hospital care settings},
    journal={Frontiers in Imaging},
    volume={4},
    year={2025},
    url={https://www.frontiersin.org/journals/imaging/articles/10.3389/fimag.2025.1547166},
    DOI={10.3389/fimag.2025.1547166},
+   ISSN={2813-3315},
 }
 ```
