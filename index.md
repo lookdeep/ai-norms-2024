@@ -11,7 +11,7 @@ header:
     caption: "LookDeep Health System Overview. From Figure 1 of article."
     actions:
         - label: "Explore Plots <i class='fa fa-external-link'></i>"
-          url: "https://lookdeep.vercel.app/"
+          url: "https://corporate-web.lookdeep.workers.dev/norms_dashboard/"
         - label: "Read Paper <i class='fa fa-external-link'></i>"
           url: "https://www.frontiersin.org/journals/imaging/articles/10.3389/fimag.2025.1547166/"
         - label: "Run Code <i class='fa fa-external-link'></i>"
@@ -39,7 +39,7 @@ This data consists of computer vision predictions recorded from hundreds of pati
 
 ![Example trend](assets/images/trends_plot.png "Percent Time Alone")
 
-_Example trend plot, rendered in [Vercel App](https://lookdeep.vercel.app/)_
+_Example trend plot, rendered in [HTML](https://corporate-web.lookdeep.workers.dev/norms_dashboard/)_
 
 These trends provide hour-over-hour insight into various patient behaviors and room conditions, including but not limited to:
 ```
