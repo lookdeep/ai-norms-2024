@@ -11,6 +11,7 @@ This is the corresponding code and data repository for the titled manuscript.
 * [accepted manuscript](https://www.frontiersin.org/journals/imaging/articles/10.3389/fimag.2025.1547166)
 * [arXiv pre-print](https://arxiv.org/abs/2412.13152) 
 * [colab notebook](https://colab.research.google.com/drive/1v0Egoyt5pBmTmb9iEV8RZFSzhym5XpU4?usp=sharing)
+* [tutorial notebook (in-repo)](notebooks/ai_norms_2024.ipynb) — exported from the Colab for local / Paper2Agent use
 * [company website](https://lookdeep.health/technology/)
 * [download data](https://raw.githubusercontent.com/lookdeep/ai-norms-2024/refs/heads/main/data/data_by_patient_hour_scrubbed.csv) - `data/data_by_patient_hour_scrubbed.csv`
 * [github repository](https://github.com/lookdeep/ai-norms-2024) - use `main` branch
